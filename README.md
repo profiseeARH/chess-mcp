@@ -8,9 +8,9 @@ Install this MCP server by adding the following  JSON code to your configuraiton
       "args": [
         "--from",
         "git+https://github.com/profiseeARH/chess-mcp.git",
-		"chess"
+        "chess"
       ]
     }
   }
 }
-```json
+```
