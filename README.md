@@ -1,4 +1,4 @@
-Install this MCP server by adding the following  JSON code to your configuraiton file:
+Install this MCP server by adding the following JSON code to your configuration file:
 
 ```json
 {
